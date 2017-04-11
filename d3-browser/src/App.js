@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import D3React from './src/d3-react';
-import D3Dom from './src/d3-dom';
-import D3Canvas from './src/d3-canvas';
+import D3React from './examples/d3-react';
+import D3Dom from './examples/d3-dom';
+import D3Canvas from './examples/d3-canvas';
 
 class App extends Component {
 
